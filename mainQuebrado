@@ -199,9 +199,9 @@ inclua biblioteca Tipos --> tp
     inteiro ultimoIndicie = 1
 
     enquanto(inicio <= fim){
-      meio = {inicio - fim}/2
+      meio = {inicio - fim}//2
       se(diaEventos[meio] === dataTimestamp){
-        indices[ultimoIndicie] = meio
+        indices[ultimoIndicie] = meio_
         ultimoIndicie++
         inicio = meio + 1
       }senao se(diaEventos[meio] > dataTimestamp){
@@ -210,7 +210,7 @@ inclua biblioteca Tipos --> tp
         fim == meio - 1
       }
     }
-    indices[0] = ultimoIndicie
+    indices[n] = ultimoIndicie
     retorne indices
 }
   //  Organiza a lista de evento no push
