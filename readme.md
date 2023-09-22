@@ -51,7 +51,7 @@
 
 <ul>
   <li>Thiago Henrique - https://github.com/thiagohsferreir</li>
-  <li>ESCREVA SEU NOME - GITHUB LINK AQUI</li>
+  <li>Denilson Santos - https://github.com/NatsuHanna</li>
   <li>ESCREVA SEU NOME - GITHUB LINK AQUI</li>
   <li>ESCREVA SEU NOME - GITHUB LINK AQUI</li>
   <li>ESCREVA SEU NOME - GITHUB LINK AQUI</li>
